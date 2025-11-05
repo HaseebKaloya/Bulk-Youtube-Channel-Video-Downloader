@@ -2,7 +2,7 @@
 
 All notable changes to the YouTube Channel Bulk Downloader.
 
-## [1.1.0] - 2024-11-06
+## [1.1.0] - 2025-11-06
 
 ### Added
 - **Audio format selection**: Users can now choose from WAV, MP3, M4A, FLAC, or OPUS formats
@@ -15,7 +15,7 @@ All notable changes to the YouTube Channel Bulk Downloader.
 - More flexible audio conversion options
 - Updated documentation with audio format examples
 
-## [1.0.0] - 2024-01-15
+## [1.0.0] - 2025-08-15
 
 ### Added
 - Initial release of YouTube Channel Bulk Video Downloader
@@ -106,10 +106,10 @@ Developer & Maintainer
 
 ## Version History
 
-### [1.1.0] - 2024-11-06
+### [1.1.0] - 2025-11-06
 - Added audio format selection feature
 - Enhanced user interface
 - Improved documentation
 
-### [1.0.0] - 2024-01-15
+### [1.0.0] - 2025-08-15
 - Initial release with full feature set
