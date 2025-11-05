@@ -368,5 +368,5 @@ This project was built with the goal of making YouTube channel archiving simple 
 
 ---
 
-**Last Updated**: 2024-11-06  
+**Last Updated**: 2025-11-06  
 **Version**: 1.1.0
